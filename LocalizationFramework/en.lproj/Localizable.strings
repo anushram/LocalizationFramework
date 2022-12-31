@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationFramework
+
+  Created by Ramkumar J on 31/12/22.
+  
+*/
+"title" = "Localization Tutorial";
+"description" = "How to Create Reusable Localization Framework";
